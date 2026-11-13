@@ -1,1 +1,1 @@
-# v2-scan-agent
+# v2-scan-worker
